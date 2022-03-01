@@ -1,0 +1,86 @@
+//BBXD DATABASE!!!!!
+// two slashes = comment
+//format must be old phrase, new phrase, percentage (from 0 to 1), if looking for whole word
+//example 1
+//sad, emo, .1, t
+//This means theres a 10% to replace sad with emo, but only when the entire word "sad" is found
+//if a word like ambasSADor comes up, it wont change to ambasEMOor.
+//example 2
+//a, @, .2
+//This means theres a 20% to replace a with @ in every case. so AmbAsAdor has a .8% chance to be @mb@s@dor
+
+@@BEGIN
+//Heres the alphabet pt. 2, the betabet
+a, @, .2
+b, bb, .2
+e, 3, .2
+f, ff, .1
+i, ii, .35
+j, jj, .1
+k, kk, .1
+l, 1, .25
+m, mm, .1
+n, nn, .1
+o, 0, .25
+p, pp, .1
+q, qq, .1
+r, rr, .1
+s, 5, .25
+t, 7, .15
+x, xx, .15
+
+the, teh, .6, t
+have, hab, .6, t
+you, `~_u_~`, .95
+me, ~mi~, .6, t
+forever, 5ever, .4, t
+because, cuz, .9
+are, r, .9, t
+lol, lololol ;), .8, t
+know, no, .95
+hate, h8, .8
+cute, super qtie, .6, t
+sucks, sux, .8, t
+the, da, .6, t
+cutie, qt, .85
+cutest, qtiest, .85
+beautiful, sxxe, .5
+funny, random, .7
+sad, emo, .6, t
+weird, random, .5
+cigarette, bouge, 1
+stupid, gay, .9
+girlfriend, gf, 1
+friend, BFF, .9, t
+funny, LOLOLOL, .5
+obvious, total obvii, 1
+perfect, perf, .8
+precious, presh, .75
+totally, totes, .75
+their, der, .75
+they're, der, .75
+Chris, C QT <33, 1
+Bryan, da QTist, 1
+Mozart, Panic! At the Disco, 1
+love, luv <33!, .5
+this, dis, .8
+., !, .4
+holy shit, holy shiiit, 1
+let me, lemme, 1
+want to, wanna, 1
+kind of, kinda, 1
+BBXD, me, 1
+
+@@FOOTERS
+//These come after periods
+;)
+XOXOXO
+<3
+"`~_~`~_~`**
+=PPPPP
+hehehe
+=DDDD
+XOXOXO XD
+LOLOL ;)
+
+

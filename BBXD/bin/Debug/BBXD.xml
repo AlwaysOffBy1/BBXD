@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BBXD
+</name>
+</assembly>
+<members>
+<member name="T:BBXD.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BBXD.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BBXD.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BBXD.My.Resources.Resources.bbxdCopyButtonImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BBXD.My.Resources.Resources.BBXDdatabaseLocal">
+<summary>
+  Looks up a localized string similar to //BBXD DATABASE!!!!!
+// two slashes = comment
+//format must be old phrase, new phrase, percentage (from 0 to 1), if looking for whole word
+//example 1
+//sad, emo, .1, t
+//This means theres a 10% to replace sad with emo, but only when the entire word &quot;sad&quot; is found
+//if a word like ambasSADor comes up, it wont change to ambasEMOor.
+//example 2
+//a, @, .2
+//This means theres a 20% to replace a with @ in every case. so AmbAsAdor has a .8% chance to be @mb@s@dor
+
+@@BEGIN
+//Heres the alphabet pt. 2,  [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BBXD.My.Resources.Resources.bbxdImage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BBXD.My.Resources.Resources.purple_butterfly">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+</members>
+</doc>

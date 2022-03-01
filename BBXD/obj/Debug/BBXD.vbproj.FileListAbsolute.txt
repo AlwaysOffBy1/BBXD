@@ -1,0 +1,86 @@
+G:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.config
+G:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe
+G:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.pdb
+G:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.xml
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.Resources.resources
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.GenerateResource.Cache
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.xml
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.pdb
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.FormBBXD.resources
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.g.resources
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.AskToSaveFileForm.resources
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbprojResolveAssemblyReference.cache
+G:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.DbEdit.resources
+F:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.config
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.xml
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.pdb
+F:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe
+F:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.pdb
+F:\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.xml
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbprojResolveAssemblyReference.cache
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.g.resources
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.AskToSaveFileForm.resources
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.DbEdit.resources
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.FormBBXD.resources
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.Resources.resources
+F:\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.GenerateResource.Cache
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.config
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.pdb
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.xml
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbprojResolveAssemblyReference.cache
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.g.resources
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.AskToSaveFileForm.resources
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.DbEdit.resources
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.FormBBXD.resources
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.Resources.resources
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.GenerateResource.Cache
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.xml
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.pdb
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.manifest
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.application
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe.manifest
+D:\OneDrive\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.application
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbprojAssemblyReference.cache
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.g.resources
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.AskToSaveFileForm.resources
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.DbEdit.resources
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.FormBBXD.resources
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.Resources.resources
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.GenerateResource.cache
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.CoreCompileInputs.cache
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.xml
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.pdb
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.config
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.manifest
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.application
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.pdb
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.xml
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe.manifest
+D:\Work\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.application
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.g.resources
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.AskToSaveFileForm.resources
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.DbEdit.resources
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.FormBBXD.resources
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.Resources.resources
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.GenerateResource.cache
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.vbproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.xml
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.pdb
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.config
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe.manifest
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.application
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.exe
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.pdb
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\bin\Debug\BBXD.xml
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.exe.manifest
+C:\Users\bryan\OneDrive - cumc.columbia.edu\Visual Studio FIles\BBXD\BBXD\obj\Debug\BBXD.application
